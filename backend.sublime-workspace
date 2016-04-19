@@ -1,0 +1,321 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 4117,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"java Soluton",
+			"java Solution",
+			"javac Solution.java",
+			"javac Solution",
+			"javac Solution.java",
+			"javac test.java",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/YZ/HealthPalBackend",
+		"/Users/YZ/HealthPalBackend/models"
+	],
+	"file_history":
+	[
+		"/Users/YZ/HealthPalBackend/server.js",
+		"/Users/YZ/HealthPalBackend/models/user.js",
+		"/Users/YZ/HealthPal/HealthPal.sublime-workspace",
+		"/Users/YZ/HealthPal/bower.json",
+		"/Users/YZ/HealthPal/www/templates/tabs.html",
+		"/Users/YZ/HealthPalBackend/config.js",
+		"/Users/YZ/HealthPal/www/js/controllers.js",
+		"/Users/YZ/HealthPal/www/templates/tab-dash.html",
+		"/Users/YZ/HealthPal/www/index.html",
+		"/Users/YZ/myApp/www/js/controllers.js",
+		"/Users/YZ/myApp/www/js/app.js",
+		"/Users/YZ/myApp/www/templates/tab-dash.html",
+		"/Users/YZ/myApp/www/js/services.js",
+		"/Users/YZ/myApp/www/index.html",
+		"/Users/YZ/myApp/www/css/style.css",
+		"/Users/YZ/myApp/bower.json",
+		"/Users/YZ/myApp/gulpfile.js",
+		"/Users/YZ/code/package.json",
+		"/Users/YZ/code/app.js",
+		"/Users/YZ/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/YZ/Library/Application Support/Sublime Text 3/Packages/User/node.sublime-build",
+		"/usr/local/bin/firstDjango",
+		"/Users/YZ/pWorkSpace/firstDjango/functional_tests/all_users.py",
+		"/Users/YZ/.bash_profile",
+		"/Users/YZ/Downloads/Solution.java",
+		"/Users/YZ/Downloads/test.java",
+		"/Users/YZ/Downloads/poi.py",
+		"/Users/YZ/Downloads/test.py",
+		"/Users/YZ/Desktop/nuance_music 17-36-56-388.txt",
+		"/Users/YZ/Downloads/nuance_music.txt",
+		"/Users/YZ/Downloads/nuance.py",
+		"/Users/YZ/Downloads/pair.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"u\"",
+			"'}",
+			"':",
+			"u'",
+			"'}",
+			"':",
+			"u'",
+			"Can you choose something new for me",
+			"{u'type': 224, u'value': {u'action': {u'type': 224, u'value': {u'intent': {u'type': 224, u'value': {u'value': {u'type': 193, u'value': u'NO_INTENT'}}}}}, u'literal': {u'type': 193, u'value': u'Can you choose something new for me'}, u'origSentence': {u'type': 193, u'value': u'Can you choose something new for me?'}, u'concepts': {u'type': 224, u'value': {u'To_location': {u'type': 16, u'value': [{u'type': 224, u'value': {u'literal': {u'type': 193, u'value': u'Can you choose something new for me'}, u'concepts': {u'type': 224, u'value': {u'POI_TYPE': {u'type': 16, u'value': [{u'type': 224, u'value': {u'ranges': {u'type': 16, u'value': [{u'type': 16, u'value': [{u'type': 192, u'value': 0}, {u'type': 192, u'value': 35}]}]}, u'literal': {u'type': 193, u'value': u'Can you choose something new for me'}, u'value': {u'type': 193, u'value': u'* * * * * * * '}}}]}}}}}]}}}}}",
+			"}{",
+			"u\"",
+			"'}",
+			":",
+			"':",
+			"u'",
+			"u\"",
+			"':",
+			"u'",
+			"u\"",
+			"':",
+			"u'",
+			"'",
+			"u'",
+			"u",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"\"}",
+			"\":",
+			"\"",
+			"\"}",
+			"\"",
+			"\"}",
+			"\":",
+			":",
+			"\"",
+			"\":",
+			"\"",
+			"",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2349,
+								2349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "backend.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/HealthPal/HealthPal.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
